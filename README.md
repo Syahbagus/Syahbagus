@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;Welcome+to+my+profile;Keep+learning+%F0%9F%93%96;Stay+chill+%E2%98%95" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&pause=1000&color=4D27E8&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;Welcome+to+my+profile;Keep+learning+%F0%9F%93%96;Stay+chill+%E2%98%95" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">My name is Syahbagus Radithya</h3>
