@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/syahbagus-radithya-6060b3244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syahbagus radithya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syahbagus-radithya-6060b3244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syahbagus radithya" height="30" width="40" /></a>
 <a href="https://instagram.com/syahbagus.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syahbagus.r" height="30" width="40" /></a>
 <a href="mailto:syahbagusradithya@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80558000/232265895-7cf0645f-ba66-4415-b401-eab390cd112c.png" alt="syahbagus.r" height="30" /></a>
 </p>
