@@ -11,13 +11,15 @@
 </br>
 <img src="https://user-images.githubusercontent.com/80558000/232263723-0c553074-1cd3-4222-a402-5b15977720b3.gif" width=30% align="right"/>
 
-### <img src="https://user-images.githubusercontent.com/80558000/232265090-a7700fd8-72bd-404c-8140-f94a6c825fb9.gif" height="50px" /> I’m currently learning ...
+<img src="https://user-images.githubusercontent.com/80558000/232265090-a7700fd8-72bd-404c-8140-f94a6c825fb9.gif" height="50px"/> I’m currently learning ... 
+==
 - Machine learning
 - UI/UX design
 - database
 - Javascript
 
-### <img src="https://user-images.githubusercontent.com/80558000/232265659-e8ea56c0-be3b-44ad-8b56-3df3f3f042ef.gif" height="50px" /> Current Goal ...
+<img src="https://user-images.githubusercontent.com/80558000/232265659-e8ea56c0-be3b-44ad-8b56-3df3f3f042ef.gif" height="50px" /> Current Goal ...
+==
 - Making my personal website
 - Make a simple object recognizer
 
