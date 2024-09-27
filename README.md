@@ -5,7 +5,7 @@
 <h3 align="center">My name is Syahbagus Radithya</h3>
 <p align="center">
   I'm a junior pragrammer from Indonesia. I'm currently studying at one </br>
-  of the university in Java. I'm interested in AI technology and game developing </br>
+  of the university in Java. I'm interested in AI technology and Cyber Security </br>
   and looking for a community to join in, so that I can learn and make some friends </br>
 </p>
 </br>
