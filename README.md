@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/80558000/232265090-a7700fd8-72bd-404c-8140-f94a6c825fb9.gif" height="50px"/> I’m currently learning ... 
 ==
 - Machine learning
-- UI/UX design
+- Cybersecurity
 - database
 - Javascript
 
